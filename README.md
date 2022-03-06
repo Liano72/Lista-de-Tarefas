@@ -1,6 +1,6 @@
 # Lista-de-Tarefas
 
-A lista de tarefas possui a função de editar e excluir os lembretes. \n Programa simples contruido com Javascript, CSS e HTML. 
+A lista de tarefas possui a função de editar e excluir os lembretes. n\ Programa simples contruido com Javascript, CSS e HTML. 
 
 ![Capturar](https://user-images.githubusercontent.com/89361754/156945666-ca124556-f9b6-4995-a671-447eddf7bb8b.JPG)
 
